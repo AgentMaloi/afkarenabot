@@ -1,11 +1,9 @@
 import config
 import heroes
 import images
-import random
 import requests
 import logging
 import asyncio
-import pyodbc
 import sqlite_utils
 import sqlite3
 import os
