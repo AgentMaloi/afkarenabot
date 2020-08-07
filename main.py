@@ -4,7 +4,6 @@ import images
 import requests
 import logging
 import asyncio
-import sqlite_utils
 import sqlite3
 import os
 
